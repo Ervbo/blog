@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Erv&#x27;s Notebook</title>
+    <link>https://blog.ervbo.com</link>
+    <description>Short reflections on Scripture, physics, and the space where they meet.</description>
+    <language>en-us</language>
+    <item>
+      <title>The Third Commandment</title>
+      <link>https://blog.ervbo.com/posts/the-third-commandment.html</link>
+      <guid>https://blog.ervbo.com/posts/the-third-commandment.html</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>What &quot;you shall not take the name of the LORD your God in vain&quot; actually means in Hebrew — and why it&#x27;s about far more than profanity.</description>
+    </item>
+    <item>
+      <title>Quantum Mechanics Meets God</title>
+      <link>https://blog.ervbo.com/posts/quantum-mechanics-meets-god.html</link>
+      <guid>https://blog.ervbo.com/posts/quantum-mechanics-meets-god.html</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Technical</category>
+      <description>Could the strangest ideas in quantum mechanics — the observer effect, entanglement, non-locality — echo something ancient theology has claimed about God all along?</description>
+    </item>
+  </channel>
+</rss>
