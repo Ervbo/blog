@@ -387,6 +387,57 @@ main {
   color: var(--color-text);
 }
 
+.post-body figure {
+  margin-block: var(--space-8);
+}
+.post-body figure img {
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-divider);
+  box-shadow: var(--shadow-sm);
+}
+.post-body figcaption {
+  margin-top: var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  font-style: italic;
+}
+
+.post-body blockquote {
+  margin-block: var(--space-6);
+  padding-left: var(--space-5);
+  border-left: 3px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.post-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-block: var(--space-8);
+  font-size: var(--text-sm);
+}
+.post-body th,
+.post-body td {
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--color-divider);
+  text-align: left;
+  vertical-align: top;
+}
+.post-body th {
+  background: var(--color-surface-offset);
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+.post-body ul,
+.post-body ol {
+  margin-bottom: var(--space-5);
+  padding-left: var(--space-6);
+  max-width: 68ch;
+}
+.post-body li {
+  margin-bottom: var(--space-2);
+}
+
 .post-footer {
   margin-top: var(--space-12);
   padding-top: var(--space-8);
