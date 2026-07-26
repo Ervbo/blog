@@ -1,19 +1,117 @@
 [
   {
+    "slug": "is-there-a-god-why-read-the-bible",
+    "title": "Is There a God? Why Read the Bible?",
+    "date": "2026-01-11",
+    "tag": "biblical",
+    "excerpt": "Two shorter, shareable summaries: spotting the logical gaps in a popular argument against God, and why Scripture needs to be constantly in us."
+  },
+  {
+    "slug": "confessing-sin-of-others",
+    "title": "Confessing Sin. Of Others.",
+    "date": "2026-01-25",
+    "tag": "biblical",
+    "excerpt": "Learning to mourn the sins of my people the way Daniel, Nehemiah, and Ezra did — without pretending guilt that isn't mine."
+  },
+  {
+    "slug": "pray-for-cori-ai",
+    "title": "Pray for Cori. AI.",
+    "date": "2026-02-01",
+    "tag": "biblical",
+    "excerpt": "A prayer of healing shaped by Scripture's promises, offered for a friend's daughter."
+  },
+  {
+    "slug": "zech-5-3",
+    "title": "Zech 5:3",
+    "date": "2026-02-08",
+    "tag": "biblical",
+    "excerpt": "A Hebrew word study on naqah — the 'clean' or 'innocent' declared guiltless — traced across Exodus, Numbers, Nahum, and Zechariah."
+  },
+  {
+    "slug": "leanness",
+    "title": "Leanness",
+    "date": "2026-02-22",
+    "tag": "biblical",
+    "excerpt": "A pattern in Scripture where the worst judgment isn't withholding what we want, but granting it."
+  },
+  {
+    "slug": "fasting",
+    "title": "Fasting",
+    "date": "2026-03-08",
+    "tag": "biblical",
+    "excerpt": "Years of fasting for the right reasons, and a video that still found room to convict me — plus Isaiah 58's warning about fasting that never leaves the room."
+  },
+  {
+    "slug": "zech-11-4-17-icb",
+    "title": "Zech 11:4-17. ICB.",
+    "date": "2026-03-22",
+    "tag": "biblical",
+    "excerpt": "Reading Zechariah's parable of the foolish shepherd in the International Children's Bible, and why it hit the same nerve as Ezekiel 34 and Nehemiah's tears."
+  },
+  {
+    "slug": "the-10-commandments-outdated",
+    "title": "The 10 Commandments. Outdated?",
+    "date": "2026-04-12",
+    "tag": "biblical",
+    "excerpt": "Which of the Ten Commandments does modern culture still treat as clearly wrong to break — and which ones have quietly become optional?"
+  },
+  {
+    "slug": "prepared-but-for-what",
+    "title": "Prepared. But for What?",
+    "date": "2026-04-26",
+    "tag": "biblical",
+    "excerpt": "Why doesn't God take us to heaven the instant we choose Him? A working theology of earth as preparation, built while writing a children's book."
+  },
+  {
+    "slug": "other-religions",
+    "title": "Other Religions",
+    "date": "2026-05-17",
+    "tag": "biblical",
+    "excerpt": "Months of weekly conversations with Mormon missionaries, and a comparison chart built to sort out where the real differences actually lie."
+  },
+  {
+    "slug": "the-trinity-roles-and-responsibilities",
+    "title": "The Trinity. Roles & Responsibilities.",
+    "date": "2026-05-31",
+    "tag": "biblical",
+    "excerpt": "One God, three persons, one will — sketching who does what in creation and salvation, and why calling the Spirit 'more sensitive' undersells all three."
+  },
+  {
+    "slug": "50-questions",
+    "title": "50 Questions",
+    "date": "2026-06-14",
+    "tag": "biblical",
+    "excerpt": "A cheap Logos sale find with 50 questions worth wrestling with — plus a bonus deep-dive into the Hebrew word Shalom."
+  },
+  {
+    "slug": "psalm-91",
+    "title": "Psalm 91",
+    "date": "2026-06-21",
+    "tag": "biblical",
+    "excerpt": "Turning Psalm 91's promises of God's protection into a single image, to absorb more of what the words were describing."
+  },
+  {
+    "slug": "bang",
+    "title": "Bang!",
+    "date": "2026-07-05",
+    "tag": "technical",
+    "excerpt": "Having some fun with AI comparing Genesis 1 to the Big Bang — plus a serious 33-minute watch on Einstein, God, and science."
+  },
+  {
     "slug": "the-third-commandment",
     "title": "The Third Commandment",
     "date": "2026-07-24",
     "tag": "biblical",
-    "excerpt": "What \"you shall not take the name of the LORD your God in vain\" actually means in Hebrew \u2014 and why it's about far more than profanity."
+    "excerpt": "What \"you shall not take the name of the LORD your God in vain\" actually means in Hebrew — and why it's about far more than profanity."
   },
   {
     "slug": "quantum-mechanics-meets-god",
     "title": "Quantum Mechanics Meets God",
     "date": "2026-07-24",
     "tag": "technical",
-    "excerpt": "Could the strangest ideas in quantum mechanics \u2014 the observer effect, entanglement, non-locality \u2014 echo something ancient theology has claimed about God all along?"
+    "excerpt": "Could the strangest ideas in quantum mechanics — the observer effect, entanglement, non-locality — echo something ancient theology has claimed about God all along?"
   },
-    {
+  {
     "slug": "heaven",
     "title": "Heaven",
     "date": "2026-07-25",
