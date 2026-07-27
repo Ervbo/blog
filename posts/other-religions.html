@@ -65,6 +65,18 @@
           <p>I sent a version of this summary to the missionaries this morning, mostly so they'd know where my thinking actually stands before we sit down to talk through it, since we're probably down to two more meetings before they move on to whatever comes next in their process. I don't expect it to change much on its own. But I'd rather they know exactly where I disagree and why than have us talk past each other for another month.</p>
         </div>
 
+        <section class="post-comments">
+          <h2 class="comments-heading">Comments</h2>
+          <div
+            id="cusdis_thread"
+            data-host="https://cusdis.com"
+            data-app-id="6086de44-84c6-45b4-bf59-4ac804d5f0d6"
+            data-page-id="other-religions"
+            data-page-url="https://blog.ervbo.com/posts/other-religions.html"
+            data-page-title="Other Religions"
+          ></div>
+        </section>
+
         <footer class="post-footer">
           <a class="back-link" href="../index.html">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
@@ -82,5 +94,14 @@
   </footer>
 
   <script src="../theme.js"></script>
+  <script>
+    (function () {
+      var cusdisEl = document.getElementById('cusdis_thread');
+      if (cusdisEl) {
+        cusdisEl.setAttribute('data-theme', document.documentElement.getAttribute('data-theme') || 'light');
+      }
+    })();
+  </script>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 </body>
 </html>
