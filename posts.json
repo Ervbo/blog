@@ -495,5 +495,26 @@
     "date": "2027-04-29",
     "tag": "biblical",
     "excerpt": "Digitizing sixteen years of a Christian library, and nine short reels worth watching."
+  },
+  {
+    "slug": "revival",
+    "title": "Revival",
+    "date": "2027-05-06",
+    "tag": "biblical",
+    "excerpt": "Wondering whether God might be using the assassination of Charlie Kirk as a catalyst for spiritual revival, plus a NotebookLM-narrated BSF lecture worth a listen."
+  },
+  {
+    "slug": "confrontation-charlie-kirk",
+    "title": "Confrontation. Charlie Kirk.",
+    "date": "2027-05-13",
+    "tag": "biblical",
+    "excerpt": "Every recorded confrontation Jesus had with the religious leaders of His day, and what it reveals about a person with the wrong motives \u2014 read against the assassination of Charlie Kirk."
+  },
+  {
+    "slug": "mind-maps",
+    "title": "Mind Maps",
+    "date": "2027-05-20",
+    "tag": "biblical",
+    "excerpt": "How to turn a BSF lecture into a mind map using AI, plus a companion approach for a synced video slideshow."
   }
 ]
