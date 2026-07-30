@@ -6,28 +6,84 @@
     <description>Short reflections on Scripture, physics, and the space where they meet.</description>
     <language>en-us</language>
     <item>
-      <title>Mind Maps</title>
-      <link>https://blog.ervbo.com/posts/mind-maps.html</link>
-      <guid>https://blog.ervbo.com/posts/mind-maps.html</guid>
-      <pubDate>Thu, 20 May 2027 00:00:00 +0000</pubDate>
+      <title>My Decision Matrix App</title>
+      <link>https://blog.ervbo.com/posts/my-decision-matrix-app.html</link>
+      <guid>https://blog.ervbo.com/posts/my-decision-matrix-app.html</guid>
+      <pubDate>Sun, 24 Oct 2027 00:00:00 +0000</pubDate>
       <category>Biblical</category>
-      <description>How to turn a BSF lecture into a mind map using AI, plus a companion approach for a synced video slideshow.</description>
+      <description>Wrestling ChatGPT-assisted Python code through tkinter, Pyinstaller, and PythonAnywhere, with an eye toward eventually turning it into a Bible verse screensaver.</description>
     </item>
     <item>
-      <title>Confrontation. Charlie Kirk.</title>
-      <link>https://blog.ervbo.com/posts/confrontation-charlie-kirk.html</link>
-      <guid>https://blog.ervbo.com/posts/confrontation-charlie-kirk.html</guid>
-      <pubDate>Thu, 13 May 2027 00:00:00 +0000</pubDate>
+      <title>Bible Clock</title>
+      <link>https://blog.ervbo.com/posts/bible-clock.html</link>
+      <guid>https://blog.ervbo.com/posts/bible-clock.html</guid>
+      <pubDate>Sun, 17 Oct 2027 00:00:00 +0000</pubDate>
       <category>Biblical</category>
-      <description>Every recorded confrontation Jesus had with the religious leaders of His day, and what it reveals about a person with the wrong motives — read against the assassination of Charlie Kirk.</description>
+      <description>A crowdfunded Bible Clock finally goes into production, and an offer to buy one for anyone in the group who wants it.</description>
     </item>
     <item>
-      <title>Revival</title>
-      <link>https://blog.ervbo.com/posts/revival.html</link>
-      <guid>https://blog.ervbo.com/posts/revival.html</guid>
-      <pubDate>Thu, 06 May 2027 00:00:00 +0000</pubDate>
+      <title>What Displeases God?</title>
+      <link>https://blog.ervbo.com/posts/what-displeases-god.html</link>
+      <guid>https://blog.ervbo.com/posts/what-displeases-god.html</guid>
+      <pubDate>Sun, 10 Oct 2027 00:00:00 +0000</pubDate>
       <category>Biblical</category>
-      <description>Wondering whether God might be using the assassination of Charlie Kirk as a catalyst for spiritual revival, plus a NotebookLM-narrated BSF lecture worth a listen.</description>
+      <description>AI wrote an 8-week sermon series and Erv posted it to his Weebly page, one caption-hover image at a time.</description>
+    </item>
+    <item>
+      <title>Why the Church?</title>
+      <link>https://blog.ervbo.com/posts/why-the-church.html</link>
+      <guid>https://blog.ervbo.com/posts/why-the-church.html</guid>
+      <pubDate>Sun, 03 Oct 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>An honest look at the &#x27;artificial church&#x27; Erv built for himself after brain surgery, why it isn&#x27;t a real substitute, and an AI-written sermon worth reading anyway.</description>
+    </item>
+    <item>
+      <title>Holly&#x27;s Lecture</title>
+      <link>https://blog.ervbo.com/posts/holly.html</link>
+      <guid>https://blog.ervbo.com/posts/holly.html</guid>
+      <pubDate>Sun, 26 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>A Sunday check-in on whether a national tragedy might be sparking spiritual revival, and Holly&#x27;s lecture turned into an AI-narrated slide overview.</description>
+    </item>
+    <item>
+      <title>Exile &amp; Return</title>
+      <link>https://blog.ervbo.com/posts/exile-and-return.html</link>
+      <guid>https://blog.ervbo.com/posts/exile-and-return.html</guid>
+      <pubDate>Wed, 15 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>The lesson e-book finally lands, and a few things that jumped out ahead of a new BSF year through Ezra, Nehemiah, Daniel, Esther, and the minor prophets.</description>
+    </item>
+    <item>
+      <title>BSF Template</title>
+      <link>https://blog.ervbo.com/posts/bsf-template.html</link>
+      <guid>https://blog.ervbo.com/posts/bsf-template.html</guid>
+      <pubDate>Tue, 14 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>A great first night back with the group, an honest word about the pre-study jitters, and a Google Sheets template for tracking Discussion Question answers all year.</description>
+    </item>
+    <item>
+      <title>Chess Master</title>
+      <link>https://blog.ervbo.com/posts/chess-master.html</link>
+      <guid>https://blog.ervbo.com/posts/chess-master.html</guid>
+      <pubDate>Sun, 12 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>BSF starts tomorrow, and a quick walkthrough of NotebookLM&#x27;s new Video Overview feature using the book of Ezekiel.</description>
+    </item>
+    <item>
+      <title>2 Cor 1:8-9</title>
+      <link>https://blog.ervbo.com/posts/2-cor-1.html</link>
+      <guid>https://blog.ervbo.com/posts/2-cor-1.html</guid>
+      <pubDate>Fri, 10 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>On enduring beyond what feels endurable, the heresy hiding inside a popular Christian saying, and stopping the reliance on self to learn reliance on God alone.</description>
+    </item>
+    <item>
+      <title>Ecclesiastes. Screensaver</title>
+      <link>https://blog.ervbo.com/posts/ecclesiastes.html</link>
+      <guid>https://blog.ervbo.com/posts/ecclesiastes.html</guid>
+      <pubDate>Mon, 06 Sep 2027 00:00:00 +0000</pubDate>
+      <category>Biblical</category>
+      <description>A Python screensaver for favorite quotes, why Ecclesiastes might be the most intellectually honest book in the Bible, and one week to go before Exile &amp; Return.</description>
     </item>
     <item>
       <title>Video Shorts</title>

@@ -497,24 +497,73 @@
     "excerpt": "Digitizing sixteen years of a Christian library, and nine short reels worth watching."
   },
   {
-    "slug": "revival",
-    "title": "Revival",
-    "date": "2027-05-06",
+    "slug": "ecclesiastes",
+    "title": "Ecclesiastes. Screensaver",
+    "date": "2027-09-06",
     "tag": "biblical",
-    "excerpt": "Wondering whether God might be using the assassination of Charlie Kirk as a catalyst for spiritual revival, plus a NotebookLM-narrated BSF lecture worth a listen."
+    "excerpt": "A Python screensaver for favorite quotes, why Ecclesiastes might be the most intellectually honest book in the Bible, and one week to go before Exile & Return."
   },
   {
-    "slug": "confrontation-charlie-kirk",
-    "title": "Confrontation. Charlie Kirk.",
-    "date": "2027-05-13",
+    "slug": "2-cor-1",
+    "title": "2 Cor 1:8-9",
+    "date": "2027-09-10",
     "tag": "biblical",
-    "excerpt": "Every recorded confrontation Jesus had with the religious leaders of His day, and what it reveals about a person with the wrong motives \u2014 read against the assassination of Charlie Kirk."
+    "excerpt": "On enduring beyond what feels endurable, the heresy hiding inside a popular Christian saying, and stopping the reliance on self to learn reliance on God alone."
   },
   {
-    "slug": "mind-maps",
-    "title": "Mind Maps",
-    "date": "2027-05-20",
+    "slug": "chess-master",
+    "title": "Chess Master",
+    "date": "2027-09-12",
     "tag": "biblical",
-    "excerpt": "How to turn a BSF lecture into a mind map using AI, plus a companion approach for a synced video slideshow."
+    "excerpt": "BSF starts tomorrow, and a quick walkthrough of NotebookLM's new Video Overview feature using the book of Ezekiel."
+  },
+  {
+    "slug": "bsf-template",
+    "title": "BSF Template",
+    "date": "2027-09-14",
+    "tag": "biblical",
+    "excerpt": "A great first night back with the group, an honest word about the pre-study jitters, and a Google Sheets template for tracking Discussion Question answers all year."
+  },
+  {
+    "slug": "exile-and-return",
+    "title": "Exile & Return",
+    "date": "2027-09-15",
+    "tag": "biblical",
+    "excerpt": "The lesson e-book finally lands, and a few things that jumped out ahead of a new BSF year through Ezra, Nehemiah, Daniel, Esther, and the minor prophets."
+  },
+  {
+    "slug": "holly",
+    "title": "Holly's Lecture",
+    "date": "2027-09-26",
+    "tag": "biblical",
+    "excerpt": "A Sunday check-in on whether a national tragedy might be sparking spiritual revival, and Holly's lecture turned into an AI-narrated slide overview."
+  },
+  {
+    "slug": "why-the-church",
+    "title": "Why the Church?",
+    "date": "2027-10-03",
+    "tag": "biblical",
+    "excerpt": "An honest look at the 'artificial church' Erv built for himself after brain surgery, why it isn't a real substitute, and an AI-written sermon worth reading anyway."
+  },
+  {
+    "slug": "what-displeases-god",
+    "title": "What Displeases God?",
+    "date": "2027-10-10",
+    "tag": "biblical",
+    "excerpt": "AI wrote an 8-week sermon series and Erv posted it to his Weebly page, one caption-hover image at a time."
+  },
+  {
+    "slug": "bible-clock",
+    "title": "Bible Clock",
+    "date": "2027-10-17",
+    "tag": "biblical",
+    "excerpt": "A crowdfunded Bible Clock finally goes into production, and an offer to buy one for anyone in the group who wants it."
+  },
+  {
+    "slug": "my-decision-matrix-app",
+    "title": "My Decision Matrix App",
+    "date": "2027-10-24",
+    "tag": "biblical",
+    "excerpt": "Wrestling ChatGPT-assisted Python code through tkinter, Pyinstaller, and PythonAnywhere, with an eye toward eventually turning it into a Bible verse screensaver."
   }
 ]
