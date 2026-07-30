@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Decision Matrix App — Erv's Notebook</title>
+  <meta name="description" content="Wrestling ChatGPT-assisted Python code through tkinter, Pyinstaller, and PythonAnywhere, with an eye toward eventually turning it into a Bible verse screensaver." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400..600;1,400&display=swap" rel="stylesheet" />
+  <link href="https://api.fontshare.com/v2/css?f[]=boska@400,500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="site-header__row">
+        <div>
+          <p class="site-title"><a href="../index.html">Erv's Notebook</a></p>
+          <p class="site-tagline">Short reflections on Scripture, physics, and the space where they meet.</p>
+        </div>
+        <div class="header-controls">
+          <a class="rss-link" href="../rss.xml" aria-label="RSS feed">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+            RSS
+          </a>
+          <button class="icon-btn" data-theme-toggle aria-label="Switch to dark mode"></button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <a class="back-link" href="../index.html">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        All posts
+      </a>
+
+      <article>
+        <header class="post-header">
+          <div class="post-meta">
+            <span class="tag-badge tag-badge--biblical">Biblical</span>
+            <span class="post-date">October 24, 2027</span>
+          </div>
+          <h1 class="post-title">My Decision Matrix App</h1>
+        </header>
+
+        <div class="post-body">
+
+      <p>I used ChatGPT to get me started, and it had a couple of hiccups along the way. For some reason I had to enter the Python code line by line in the IDE &mdash; when I pasted the whole thing at once, it choked on lines like &ldquo;import tkinter&rdquo; and &ldquo;import random.&rdquo; Then I had to make sure the input file, quotes.txt, was sitting in the right folder.</p>
+
+      <p>From there I tried turning the program into an executable so it'd be easier to use. Pyinstaller wouldn't cooperate &mdash; it didn't like tkinter, since that's a GUI call of sorts. I tried AI's suggestion to switch the output to non-GUI, which is around where I saw the whole contents of quotes.txt get dumped straight into the command line. My last attempt was putting the app online as a web page through PythonAnywhere, and I think it did roughly the same thing. Going to keep poking at it.</p>
+
+      <p>I'd love to eventually turn it into some kind of Bible app &mdash; even something as simple as a Bible verse screensaver. Great idea, if I can get the plumbing to cooperate.</p>
+
+      <p>Did I ever share the other app I built? <a href="https://d-side.created.app/" target="_blank" rel="noopener">d-side.created.app</a></p>
+
+      <figure>
+        <img src="images/my-decision-matrix-app-1.png" alt="Anything.app promo image reading 'Create powerful apps & websites by chatting with AI' over a flower field" loading="lazy" />
+        <figcaption><a href="https://d-side.created.app/" target="_blank" rel="noopener">Decision Matrix App &mdash; d-side.created.app</a></figcaption>
+      </figure>
+
+        </div>
+
+        <section class="post-comments">
+          <h2 class="comments-heading">Comments</h2>
+          <div
+            id="cusdis_thread"
+            data-host="https://cusdis.com"
+            data-app-id="6086de44-84c6-45b4-bf59-4ac804d5f0d6"
+            data-page-id="my-decision-matrix-app"
+            data-page-url="https://blog.ervbo.com/posts/my-decision-matrix-app.html"
+            data-page-title="My Decision Matrix App"
+          ></div>
+        </section>
+
+        <footer class="post-footer">
+          <a class="back-link" href="../index.html">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+            All posts
+          </a>
+        </footer>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Erv's Notebook &middot; <a href="../rss.xml">Subscribe via RSS</a></p>
+    </div>
+  </footer>
+
+  <script src="../theme.js"></script>
+  <script>
+    (function () {
+      var cusdisEl = document.getElementById('cusdis_thread');
+      if (cusdisEl) {
+        cusdisEl.setAttribute('data-theme', document.documentElement.getAttribute('data-theme') || 'light');
+      }
+    })();
+  </script>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</body>
+</html>
