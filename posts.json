@@ -497,6 +497,41 @@
     "excerpt": "Digitizing sixteen years of a Christian library, and nine short reels worth watching."
   },
   {
+    "slug": "free-dts-classes",
+    "title": "Free Seminary Classes. DTS",
+    "date": "2027-07-25",
+    "tag": "biblical",
+    "excerpt": "A quiet summer break from BSF, a great birthday with the grandkids, and a free Dallas Theological Seminary course worth every Christian's time."
+  },
+  {
+    "slug": "exile-and-return-whetting",
+    "title": "Exile and Return. Whetting",
+    "date": "2027-08-08",
+    "tag": "biblical",
+    "excerpt": "Prepping for BSF's Exile & Return with AI-generated podcasts constrained to Scripture alone, a favorite Logos handbook, and a genuine question about why only Judah returned."
+  },
+  {
+    "slug": "receive-the-word",
+    "title": "Receive the Word. How?",
+    "date": "2027-08-15",
+    "tag": "biblical",
+    "excerpt": "A dense reflection on the many ways God communicates beyond the written page, an Abridged/Focused Method framework for hearing His voice, and what it means to sanctify the Lord in your heart."
+  },
+  {
+    "slug": "exile-and-return-podcast",
+    "title": "Exile and Return. Podcast",
+    "date": "2027-08-21",
+    "tag": "biblical",
+    "excerpt": "Deciding to formally join the BSF group this year after a strange confirmation, plus how the AI-narrated podcasts are landing differently than reading the text alone."
+  },
+  {
+    "slug": "questioning-god",
+    "title": "Questioning God",
+    "date": "2027-08-29",
+    "tag": "biblical",
+    "excerpt": "A month out from Exile & Return, selling the old Jeep, faithfully pre-studying all eight books, and an honest look back at the angry things once said to God \u2014 and how Malachi answers them."
+  },
+  {
     "slug": "ecclesiastes",
     "title": "Ecclesiastes. Screensaver",
     "date": "2027-09-06",
@@ -565,5 +600,68 @@
     "date": "2027-10-24",
     "tag": "biblical",
     "excerpt": "Wrestling ChatGPT-assisted Python code through tkinter, Pyinstaller, and PythonAnywhere, with an eye toward eventually turning it into a Bible verse screensaver."
+  },
+  {
+    "slug": "are-you-luffing-or-bluffing",
+    "title": "Are you Luffing or Bluffing?",
+    "date": "2027-10-31",
+    "tag": "biblical",
+    "excerpt": "An old essay on what it really means to 'be filled with the Spirit,' borrowed from a sailing metaphor: luffing sails, telltales, and staying oriented to the wind."
+  },
+  {
+    "slug": "septuagint-vs-tanakh",
+    "title": "Septuagint vs Tanakh",
+    "date": "2027-11-07",
+    "tag": "biblical",
+    "excerpt": "Wrestling with Joshua's conquest narratives, a virgin-birth translation question in Isaiah 7:14, and a growing doubt about whether the Septuagint carries the same authority as the Hebrew Old Testament."
+  },
+  {
+    "slug": "septuagint-lxx",
+    "title": "Septuagint. LXX",
+    "date": "2027-11-13",
+    "tag": "biblical",
+    "excerpt": "A 67th-birthday update on the Septuagint-inspiration question, a Stephen Hackett video making the case for adding Correlation to the inductive method, and a step-by-step walkthrough of studying Isaiah 7:14 across Hebrew, Greek, and English."
+  },
+  {
+    "slug": "acts-2",
+    "title": "Acts 2",
+    "date": "2027-11-21",
+    "tag": "biblical",
+    "excerpt": "Studying the Old Testament in Greek to catch New Testament parallels invisible in Hebrew-only comparison, sparked by a Stephen Hackett video on why Pentecost was more explosive than you think."
+  },
+  {
+    "slug": "omnipresent-omniloving",
+    "title": "Omnipresent. Omniloving",
+    "date": "2027-11-28",
+    "tag": "biblical",
+    "excerpt": "A short, jokey BSF-day reflection on loving God's attributes, and a wish that science could someday 'prove' Omniloving the way it claims to prove Omnipresence."
+  },
+  {
+    "slug": "which-saint-are-you",
+    "title": "Which saint are you?",
+    "date": "2027-12-05",
+    "tag": "biblical",
+    "excerpt": "An AI quiz says Mother Teresa. A reflection on the Apostle's Creed as a litmus test, 40+ years of youth ministry with hurting teenagers, and the very different saint he's become post-tumor."
+  },
+  {
+    "slug": "creator-cause",
+    "title": "Creator Cause",
+    "date": "2027-12-12",
+    "tag": "technical",
+    "excerpt": "An AI debate on causal versus contingent causes for the universe, a physicist's admission that we don't know why the universe began ordered, and why 'Quantum AI is the creator' collapses under its own logic."
+  },
+  {
+    "slug": "heaven-2",
+    "title": "Heaven. Part 2",
+    "date": "2027-12-17",
+    "tag": "biblical",
+    "excerpt": "Picking back up open questions from an earlier post on heaven \u2014 reigning, judging angels, pilgrimages to the New Jerusalem \u2014 plus a Randy Alcorn recommendation and a Mind Map connecting Eden to eternity."
+  },
+  {
+    "slug": "my-inductive-bible-study-app",
+    "title": "My Inductive Bible Study App",
+    "date": "2027-12-26",
+    "tag": "biblical",
+    "excerpt": "ChatGPT-5 lands and gets put straight to work building a Bible study web app with Observation, Interpretation, Correlation, and Application boxes, auto-save, and Believer's Bible Commentary built in."
   }
 ]
