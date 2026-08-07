@@ -1,6 +1,6 @@
 # Erv's Notebook
 
-A small, plain, static blog for your Biblical and Technical summaries — one site, two tags, no framework, no build step (except the optional RSS regeneration).
+A small, plain, static blog for your Biblical and Technical summaries — one site, two tags, no framework, no build step (except the optional RSS regeneration) .
 
 ## What's here
 
