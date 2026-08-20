@@ -1,5 +1,75 @@
 [
   {
+    "slug": "bible-math-logic",
+    "title": "The Bible. Mathematics. Logic.",
+    "date": "2025-02-11",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: Hillsdale's Mathematics and Logic course, and the only 4 things I know for certain in life — the Bible, Mathematics, Physics, and In-n-Out Burger."
+  },
+  {
+    "slug": "eschatology-revelation",
+    "title": "Eschatology via Revelation",
+    "date": "2025-02-18",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers during our year in Revelation: a chronological timeline of the major end-times events, with the chapters of Revelation placed within it."
+  },
+  {
+    "slug": "believe-in",
+    "title": "Jesus. Believe IN.",
+    "date": "2025-03-19",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: what it really means to 'believe in' someone — and why the English may define it better than I thought."
+  },
+  {
+    "slug": "books-of-god",
+    "title": "The Books of God",
+    "date": "2025-03-29",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: every book God keeps — from the tablets of stone to the Lamb's Book of Life — plus the AI-built slide deck that would have made Andy Grove proud."
+  },
+  {
+    "slug": "schemes-of-the-devil",
+    "title": "The Schemes of the Devil",
+    "date": "2025-03-29",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: strategies for avoiding Satan's deception — and why I always do my own lesson answers before turning to any outside resource."
+  },
+  {
+    "slug": "god-draws-near-letter",
+    "title": "God Draws Near. The Letter.",
+    "date": "2025-04-01",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers over a lesson question — how God dwelt, dwells, and will dwell with His people. The seed that later grew into the God Draws Near trilogy."
+  },
+  {
+    "slug": "iconic-bible-stories",
+    "title": "25 Iconic Bible Stories",
+    "date": "2025-04-04",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: on the difference between loving the Word and being 'in love' with the Word — plus a checklist of 25 Bible story insights for Fellowship Night."
+  },
+  {
+    "slug": "bible-and-ai",
+    "title": "The Bible and AI",
+    "date": "2025-04-10",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers: after 49.5 years of searching for the perfect way to study God's Word — constrain the AI to Scripture alone, and it becomes an interactive concordance."
+  },
+  {
+    "slug": "one-nation-under-god",
+    "title": "One Nation Under God",
+    "date": "2025-04-15",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers at Easter: Philippians 1:15–18, the hardest passage I ever memorized, and rejoicing that Christ is preached — whatever the motives."
+  },
+  {
+    "slug": "holy-spirit",
+    "title": "Holy Spirit",
+    "date": "2025-04-16",
+    "tag": "biblical",
+    "excerpt": "A letter to my BSF Brothers on Spy Wednesday: a forgiven Judas, Philip Yancey's heavy hitters, and Spurgeon's thunderbolt on the deity of the Holy Spirit."
+  },
+  {
     "slug": "is-there-a-god-why-read-the-bible",
     "title": "Is There a God? Why Read the Bible?",
     "date": "2026-01-11",
@@ -11,7 +81,7 @@
     "title": "Confessing Sin. Of Others.",
     "date": "2026-01-25",
     "tag": "biblical",
-    "excerpt": "Learning to mourn the sins of my people the way Daniel, Nehemiah, and Ezra did \u2014 without pretending guilt that isn't mine."
+    "excerpt": "Learning to mourn the sins of my people the way Daniel, Nehemiah, and Ezra did — without pretending guilt that isn't mine."
   },
   {
     "slug": "pray-for-cori-ai",
@@ -25,7 +95,7 @@
     "title": "Zech 5:3",
     "date": "2026-02-08",
     "tag": "biblical",
-    "excerpt": "A Hebrew word study on naqah \u2014 the 'clean' or 'innocent' declared guiltless \u2014 traced across Exodus, Numbers, Nahum, and Zechariah."
+    "excerpt": "A Hebrew word study on naqah — the 'clean' or 'innocent' declared guiltless — traced across Exodus, Numbers, Nahum, and Zechariah."
   },
   {
     "slug": "leanness",
@@ -39,7 +109,7 @@
     "title": "Fasting",
     "date": "2026-03-08",
     "tag": "biblical",
-    "excerpt": "Years of fasting for the right reasons, and a video that still found room to convict me \u2014 plus Isaiah 58's warning about fasting that never leaves the room."
+    "excerpt": "Years of fasting for the right reasons, and a video that still found room to convict me — plus Isaiah 58's warning about fasting that never leaves the room."
   },
   {
     "slug": "zech-11-4-17-icb",
@@ -53,7 +123,7 @@
     "title": "The 10 Commandments. Outdated?",
     "date": "2026-04-12",
     "tag": "biblical",
-    "excerpt": "Which of the Ten Commandments does modern culture still treat as clearly wrong to break \u2014 and which ones have quietly become optional?"
+    "excerpt": "Which of the Ten Commandments does modern culture still treat as clearly wrong to break — and which ones have quietly become optional?"
   },
   {
     "slug": "prepared-but-for-what",
@@ -74,14 +144,14 @@
     "title": "The Trinity. Roles & Responsibilities.",
     "date": "2026-05-31",
     "tag": "biblical",
-    "excerpt": "One God, three persons, one will \u2014 sketching who does what in creation and salvation, and why calling the Spirit 'more sensitive' undersells all three."
+    "excerpt": "One God, three persons, one will — sketching who does what in creation and salvation, and why calling the Spirit 'more sensitive' undersells all three."
   },
   {
     "slug": "50-questions",
     "title": "50 Questions",
     "date": "2026-06-14",
     "tag": "biblical",
-    "excerpt": "A cheap Logos sale find with 50 questions worth wrestling with \u2014 plus a bonus deep-dive into the Hebrew word Shalom."
+    "excerpt": "A cheap Logos sale find with 50 questions worth wrestling with — plus a bonus deep-dive into the Hebrew word Shalom."
   },
   {
     "slug": "psalm-91",
@@ -95,21 +165,21 @@
     "title": "Bang!",
     "date": "2026-07-05",
     "tag": "technical",
-    "excerpt": "Having some fun with AI comparing Genesis 1 to the Big Bang \u2014 plus a serious 33-minute watch on Einstein, God, and science."
-  },
-  {
-    "slug": "the-third-commandment",
-    "title": "The Third Commandment",
-    "date": "2026-07-24",
-    "tag": "biblical",
-    "excerpt": "What \"you shall not take the name of the LORD your God in vain\" actually means in Hebrew \u2014 and why it's about far more than profanity."
+    "excerpt": "Having some fun with AI comparing Genesis 1 to the Big Bang — plus a serious 33-minute watch on Einstein, God, and science."
   },
   {
     "slug": "quantum-mechanics-meets-god",
     "title": "Quantum Mechanics Meets God",
     "date": "2026-07-24",
     "tag": "technical",
-    "excerpt": "Could the strangest ideas in quantum mechanics \u2014 the observer effect, entanglement, non-locality \u2014 echo something ancient theology has claimed about God all along?"
+    "excerpt": "Could the strangest ideas in quantum mechanics — the observer effect, entanglement, non-locality — echo something ancient theology has claimed about God all along?"
+  },
+  {
+    "slug": "the-third-commandment",
+    "title": "The Third Commandment",
+    "date": "2026-07-24",
+    "tag": "biblical",
+    "excerpt": "What \"you shall not take the name of the LORD your God in vain\" actually means in Hebrew — and why it's about far more than profanity."
   },
   {
     "slug": "heaven",
@@ -123,7 +193,7 @@
     "title": "The Baditudes",
     "date": "2026-07-28",
     "tag": "biblical",
-    "excerpt": "The Beatitudes are easier to feel the weight of once you set them against their mirror image \u2014 Jesus's own list of woes to the Pharisees."
+    "excerpt": "The Beatitudes are easier to feel the weight of once you set them against their mirror image — Jesus's own list of woes to the Pharisees."
   },
   {
     "slug": "creation-day-4",
@@ -137,7 +207,7 @@
     "title": "The Bible interprets itself. Correlation.",
     "date": "2026-08-03",
     "tag": "biblical",
-    "excerpt": "One image says it better than I could \u2014 every cross-reference in Scripture, arced from Genesis to Revelation."
+    "excerpt": "One image says it better than I could — every cross-reference in Scripture, arced from Genesis to Revelation."
   },
   {
     "slug": "the-bible-overview",
@@ -158,14 +228,14 @@
     "title": "Fruit",
     "date": "2026-08-12",
     "tag": "biblical",
-    "excerpt": "Fruit is the first thing God ever says to us in the Bible, and He never lets up on the theme \u2014 Hosea finally showed me why."
+    "excerpt": "Fruit is the first thing God ever says to us in the Bible, and He never lets up on the theme — Hosea finally showed me why."
   },
   {
     "slug": "consciousness",
     "title": "Consciousness",
     "date": "2026-08-15",
     "tag": "technical",
-    "excerpt": "Roger Penrose's technical case for what consciousness actually is landed somewhere I've been circling for years \u2014 and it keeps God, not chance, at the center."
+    "excerpt": "Roger Penrose's technical case for what consciousness actually is landed somewhere I've been circling for years — and it keeps God, not chance, at the center."
   },
   {
     "slug": "politics",
@@ -176,10 +246,10 @@
   },
   {
     "slug": "gods-negative-attributes",
-    "title": "God\u2019s negative attributes",
+    "title": "God’s negative attributes",
     "date": "2026-08-21",
     "tag": "biblical",
-    "excerpt": "Severity, wrath, jealousy, anger \u2014 attributes that sound alarming in a person read very differently once you see what they actually mean in God."
+    "excerpt": "Severity, wrath, jealousy, anger — attributes that sound alarming in a person read very differently once you see what they actually mean in God."
   },
   {
     "slug": "haggai",
@@ -193,7 +263,7 @@
     "title": "Encouragement",
     "date": "2026-08-27",
     "tag": "biblical",
-    "excerpt": "A note on Barnabas \u2014 the 'Son of Encouragement' \u2014 ahead of tonight's Q10 discussion."
+    "excerpt": "A note on Barnabas — the 'Son of Encouragement' — ahead of tonight's Q10 discussion."
   },
   {
     "slug": "bible-app-vod",
@@ -207,28 +277,28 @@
     "title": "Leanness in your soul",
     "date": "2026-09-02",
     "tag": "biblical",
-    "excerpt": "Israel got exactly what they demanded in the wilderness \u2014 and Psalm 106 says that was the problem."
+    "excerpt": "Israel got exactly what they demanded in the wilderness — and Psalm 106 says that was the problem."
   },
   {
     "slug": "god-angels-man",
     "title": "God. Angels. Man.",
     "date": "2026-09-05",
     "tag": "biblical",
-    "excerpt": "A 3am chart comparing what God, angels, and humans before and after the Fall can and can't do \u2014 and a reminder that Satan's real opposite isn't God."
+    "excerpt": "A 3am chart comparing what God, angels, and humans before and after the Fall can and can't do — and a reminder that Satan's real opposite isn't God."
   },
   {
     "slug": "my-isi-website",
     "title": "My ISI website",
     "date": "2026-09-08",
     "tag": "biblical",
-    "excerpt": "I never paid attention to the traffic on my ISI site until now \u2014 1,500+ unique visitors in 90 days made me wonder if there's a ministry left in me after all."
+    "excerpt": "I never paid attention to the traffic on my ISI site until now — 1,500+ unique visitors in 90 days made me wonder if there's a ministry left in me after all."
   },
   {
     "slug": "plato-theory-of-forms-allegory-of-the-cave",
     "title": "Plato. Theory of Forms. Allegory of the Cave.",
     "date": "2026-09-11",
     "tag": "biblical",
-    "excerpt": "Wondering how the spiritual realm and the physical world relate to each other led me straight into Plato's cave \u2014 and out again, with a Christian correction."
+    "excerpt": "Wondering how the spiritual realm and the physical world relate to each other led me straight into Plato's cave — and out again, with a Christian correction."
   },
   {
     "slug": "degrasse-the-universe-thinks-you-are-nothing",
@@ -249,7 +319,7 @@
     "title": "Jewish genocide",
     "date": "2026-09-20",
     "tag": "biblical",
-    "excerpt": "Three thousand years of attempts to destroy Israel, and Israel is still here. To me, that's not just history \u2014 it's evidence."
+    "excerpt": "Three thousand years of attempts to destroy Israel, and Israel is still here. To me, that's not just history — it's evidence."
   },
   {
     "slug": "satan-smarter-than-a-third-grader",
@@ -263,7 +333,7 @@
     "title": "MY OT Explorer App",
     "date": "2026-09-26",
     "tag": "biblical",
-    "excerpt": "A running list of every Bible resource I trust, now built into the footer of my OT Explorer app \u2014 Wiersbe, Spurgeon, and a dozen others."
+    "excerpt": "A running list of every Bible resource I trust, now built into the footer of my OT Explorer app — Wiersbe, Spurgeon, and a dozen others."
   },
   {
     "slug": "the-law-s-for-a-nt-christian",
@@ -277,21 +347,21 @@
     "title": "The Bible. Charts. Maps. Timelines.",
     "date": "2026-10-02",
     "tag": "biblical",
-    "excerpt": "Feeding my whole Bible timeline database to AI with zero instructions produced a surprisingly good survey of the Old Testament \u2014 proof there's more to this project than I expected."
+    "excerpt": "Feeding my whole Bible timeline database to AI with zero instructions produced a surprisingly good survey of the Old Testament — proof there's more to this project than I expected."
   },
   {
     "slug": "the-bible-timeline",
     "title": "The Bible. Timeline.",
     "date": "2026-10-05",
     "tag": "biblical",
-    "excerpt": "Every person, place, and event in the Bible, linked to time \u2014 the data is finished, the chart just needs to become readable."
+    "excerpt": "Every person, place, and event in the Bible, linked to time — the data is finished, the chart just needs to become readable."
   },
   {
     "slug": "his-yoke-is-easy",
     "title": "His yoke is easy?",
     "date": "2026-10-08",
     "tag": "biblical",
-    "excerpt": "Salvation is all Him. But almost everything else God does with us runs on partnership \u2014 a small table tracing what He asks of us against what He does Himself, from Adam to David."
+    "excerpt": "Salvation is all Him. But almost everything else God does with us runs on partnership — a small table tracing what He asks of us against what He does Himself, from Adam to David."
   },
   {
     "slug": "prayer-bear",
@@ -305,7 +375,7 @@
     "title": "David's throne",
     "date": "2026-10-22",
     "tag": "biblical",
-    "excerpt": "BSF asks whether Ezekiel's prophecy of David's throne points to Christ or to David himself \u2014 Scripture's own pattern of type and fulfillment settles it for me."
+    "excerpt": "BSF asks whether Ezekiel's prophecy of David's throne points to Christ or to David himself — Scripture's own pattern of type and fulfillment settles it for me."
   },
   {
     "slug": "myths-and-fairy-tales",
@@ -333,7 +403,7 @@
     "title": "The joy of our Master",
     "date": "2026-11-19",
     "tag": "biblical",
-    "excerpt": "What does 'enter into the joy of your master' in Matthew 25 actually mean \u2014 a small phrase that turns out to carry an entire theology of heaven."
+    "excerpt": "What does 'enter into the joy of your master' in Matthew 25 actually mean — a small phrase that turns out to carry an entire theology of heaven."
   },
   {
     "slug": "what-is-a-scribe",
@@ -347,14 +417,14 @@
     "title": "Christianity vs. other religions",
     "date": "2026-12-03",
     "tag": "biblical",
-    "excerpt": "AI dodged the ten worldview questions everyone eventually has to answer \u2014 until I pushed back with what my Worldviews class had already taught me."
+    "excerpt": "AI dodged the ten worldview questions everyone eventually has to answer — until I pushed back with what my Worldviews class had already taught me."
   },
   {
     "slug": "christianity-makes-no-sense",
     "title": "Christianity makes no sense",
     "date": "2026-12-10",
     "tag": "biblical",
-    "excerpt": "A viral video calling Christians idiots reopened an old wound about being 'the dumb engineer who believes fairy tales' \u2014 so I sat down and answered all 17 of its accusations."
+    "excerpt": "A viral video calling Christians idiots reopened an old wound about being 'the dumb engineer who believes fairy tales' — so I sat down and answered all 17 of its accusations."
   },
   {
     "slug": "bible-study-resources",
@@ -403,7 +473,7 @@
     "title": "AI Bible Study",
     "date": "2027-01-28",
     "tag": "biblical",
-    "excerpt": "A personal history of Bible-study resources \u2014 from Strong's Concordance to Logos to AI \u2014 and a simple method for using AI to study a passage."
+    "excerpt": "A personal history of Bible-study resources — from Strong's Concordance to Logos to AI — and a simple method for using AI to study a passage."
   },
   {
     "slug": "ai-hebrew-and-greek",
@@ -424,7 +494,7 @@
     "title": "Sovereignty vs. Free Will",
     "date": "2027-02-18",
     "tag": "biblical",
-    "excerpt": "A wide-ranging reflection on suffering, sovereignty, and why Jesus's own suffering matters \u2014 with a detour through Daniel's dreams and cosmic warfare."
+    "excerpt": "A wide-ranging reflection on suffering, sovereignty, and why Jesus's own suffering matters — with a detour through Daniel's dreams and cosmic warfare."
   },
   {
     "slug": "daniel-9",
@@ -438,7 +508,7 @@
     "title": "A FAT Christian",
     "date": "2027-03-04",
     "tag": "biblical",
-    "excerpt": "On being Faithful, Available, and Teachable \u2014 and why God sometimes has to flatten us first."
+    "excerpt": "On being Faithful, Available, and Teachable — and why God sometimes has to flatten us first."
   },
   {
     "slug": "ezekiel-dung-prophet",
@@ -480,7 +550,7 @@
     "title": "Checkmate",
     "date": "2027-04-15",
     "tag": "biblical",
-    "excerpt": "God as the Master Chess player in the cosmic war with Satan \u2014 willing to sacrifice a piece to win the whole game."
+    "excerpt": "God as the Master Chess player in the cosmic war with Satan — willing to sacrifice a piece to win the whole game."
   },
   {
     "slug": "sola-scriptura",
@@ -529,7 +599,7 @@
     "title": "Questioning God",
     "date": "2027-08-29",
     "tag": "biblical",
-    "excerpt": "A month out from Exile & Return, selling the old Jeep, faithfully pre-studying all eight books, and an honest look back at the angry things once said to God \u2014 and how Malachi answers them."
+    "excerpt": "A month out from Exile & Return, selling the old Jeep, faithfully pre-studying all eight books, and an honest look back at the angry things once said to God — and how Malachi answers them."
   },
   {
     "slug": "ecclesiastes",
@@ -655,7 +725,7 @@
     "title": "Heaven. Part 2",
     "date": "2027-12-17",
     "tag": "biblical",
-    "excerpt": "Picking back up open questions from an earlier post on heaven \u2014 reigning, judging angels, pilgrimages to the New Jerusalem \u2014 plus a Randy Alcorn recommendation and a Mind Map connecting Eden to eternity."
+    "excerpt": "Picking back up open questions from an earlier post on heaven — reigning, judging angels, pilgrimages to the New Jerusalem — plus a Randy Alcorn recommendation and a Mind Map connecting Eden to eternity."
   },
   {
     "slug": "my-inductive-bible-study-app",
@@ -669,14 +739,14 @@
     "title": "God is a Hypocrite. Twain",
     "date": "2028-01-02",
     "tag": "biblical",
-    "excerpt": "A Facebook friend posts Mark Twain's famous 'God is a hypocrite' polemic. Rather than debate it in the comments, a full point-by-point response \u2014 and why holiness and love, not raw power, are the standard God actually judges Himself by."
+    "excerpt": "A Facebook friend posts Mark Twain's famous 'God is a hypocrite' polemic. Rather than debate it in the comments, a full point-by-point response — and why holiness and love, not raw power, are the standard God actually judges Himself by."
   },
   {
     "slug": "holy-week",
     "title": "Holy Week",
     "date": "2028-01-09",
     "tag": "biblical",
-    "excerpt": "A walk through the Holy Week timeline from Palm Sunday to Easter, landing on Spy Wednesday \u2014 a meditation on being a forgiven Judas, a Yancey recommendation, and a Spurgeon sermon on the Trinity."
+    "excerpt": "A walk through the Holy Week timeline from Palm Sunday to Easter, landing on Spy Wednesday — a meditation on being a forgiven Judas, a Yancey recommendation, and a Spurgeon sermon on the Trinity."
   },
   {
     "slug": "keep-the-words-of-this-prophecy",
@@ -704,7 +774,7 @@
     "title": "God and Breathing",
     "date": "2028-02-06",
     "tag": "biblical",
-    "excerpt": "A 30-second video reframes ruach and pneuma \u2014 the Hebrew and Greek words for breath, wind, and spirit."
+    "excerpt": "A 30-second video reframes ruach and pneuma — the Hebrew and Greek words for breath, wind, and spirit."
   },
   {
     "slug": "most-impactful-book-of-the-bible",
@@ -732,7 +802,7 @@
     "title": "Becoming a Mormon",
     "date": "2028-03-05",
     "tag": "biblical",
-    "excerpt": "Mormon missionaries have been visiting weekly for five months, and unlike a combative dorm-room debate decades ago, this time felt different \u2014 plus the actual checklist of steps required to become a Mormon."
+    "excerpt": "Mormon missionaries have been visiting weekly for five months, and unlike a combative dorm-room debate decades ago, this time felt different — plus the actual checklist of steps required to become a Mormon."
   },
   {
     "slug": "making-light-of-christ",
@@ -746,14 +816,14 @@
     "title": "The Soul",
     "date": "2028-03-19",
     "tag": "biblical",
-    "excerpt": "You are an eternal living soul who only ever has to make two real decisions \u2014 where it spends eternity, and in what condition. A flowchart, an AI sanity check, and two companion Hebrew/Greek word studies."
+    "excerpt": "You are an eternal living soul who only ever has to make two real decisions — where it spends eternity, and in what condition. A flowchart, an AI sanity check, and two companion Hebrew/Greek word studies."
   },
   {
     "slug": "son-of-man",
     "title": "Son of Man. Son of God.",
     "date": "2028-03-26",
     "tag": "biblical",
-    "excerpt": "Why did Jesus bypass every grand title to call himself the Son of Man? A visual walk from Ezekiel's dust to Daniel's throne \u2014 fifteen NotebookLM slides with my notes between them."
+    "excerpt": "Why did Jesus bypass every grand title to call himself the Son of Man? A visual walk from Ezekiel's dust to Daniel's throne — fifteen NotebookLM slides with my notes between them."
   },
   {
     "slug": "son-of-man-god",
@@ -767,42 +837,42 @@
     "title": "2 Realms. Ask for Yourself.",
     "date": "2028-04-09",
     "tag": "biblical",
-    "excerpt": "God vs Science \u2014 the longest-running debate there is. I made an interactive podcast where you can join, ask your questions out loud, and hear the hosts answer in real time."
+    "excerpt": "God vs Science — the longest-running debate there is. I made an interactive podcast where you can join, ask your questions out loud, and hear the hosts answer in real time."
   },
   {
     "slug": "duality",
     "title": "It's All About Duality",
     "date": "2028-04-16",
     "tag": "technical",
-    "excerpt": "Nine pairs of opposites I see everywhere \u2014 from Relativity vs Quantum Mechanics to Body vs Soul. I asked an AI whether they should be unified or left alone, and the answer was too good to keep to myself."
+    "excerpt": "Nine pairs of opposites I see everywhere — from Relativity vs Quantum Mechanics to Body vs Soul. I asked an AI whether they should be unified or left alone, and the answer was too good to keep to myself."
   },
   {
     "slug": "note-to-self",
     "title": "Note to Self",
     "date": "2028-04-23",
     "tag": "technical",
-    "excerpt": "How a black-and-white engineer learned to embrace paradox \u2014 and why my Theory of Everything breakthrough might be that the two theories never needed to be linked at all."
+    "excerpt": "How a black-and-white engineer learned to embrace paradox — and why my Theory of Everything breakthrough might be that the two theories never needed to be linked at all."
   },
   {
     "slug": "your-soul-3-things",
     "title": "Your Soul. The 3 Things.",
     "date": "2028-04-30",
     "tag": "biblical",
-    "excerpt": "In The Soul I argued you only have two decisions in life: where your soul spends eternity, and in what condition. I asked what I might be missing \u2014 and there is a third thing: your motives."
+    "excerpt": "In The Soul I argued you only have two decisions in life: where your soul spends eternity, and in what condition. I asked what I might be missing — and there is a third thing: your motives."
   },
   {
     "slug": "rewards-in-heaven",
     "title": "Your Rewards in Heaven. Not Intel.",
     "date": "2028-05-07",
     "tag": "biblical",
-    "excerpt": "Intel's Ranking and Rating rewarded what you did alone \u2014 never what you did for the team. I once proposed fixing that with two raises. God, it turns out, already does."
+    "excerpt": "Intel's Ranking and Rating rewarded what you did alone — never what you did for the team. I once proposed fixing that with two raises. God, it turns out, already does."
   },
   {
     "slug": "the-soul-series",
     "title": "The Soul: The Series",
     "date": "2028-05-07",
     "tag": "biblical",
-    "excerpt": "The hub for the Soul series \u2014 every installment in reading order, the Hebrew and Greek word studies behind it, and the prelude written years before the series had a name."
+    "excerpt": "The hub for the Soul series — every installment in reading order, the Hebrew and Greek word studies behind it, and the prelude written years before the series had a name."
   },
   {
     "slug": "soul-spurgeon",
@@ -811,40 +881,40 @@
     "tag": "biblical",
     "excerpt": "Closing the Soul series with the Prince of Preachers: Spurgeon's sermon on Mark 8:36 as an interactive podcast, plus seventeen slides running the ultimate audit of the human soul."
   },
- {
+  {
     "slug": "late-bloomers",
     "title": "Late Bloomers",
     "date": "2028-05-21",
     "tag": "technical",
-    "excerpt": "For my son: Carl Jung on the people the world calls late bloomers \u2014 the illusion of falling behind, the work of individuation, and a different kind of intelligence unfolding on a different kind of clock."
+    "excerpt": "For my son: Carl Jung on the people the world calls late bloomers — the illusion of falling behind, the work of individuation, and a different kind of intelligence unfolding on a different kind of clock."
   },
- {
+  {
     "slug": "journey-of-the-soul",
     "title": "The Journey of the Soul",
     "date": "2028-05-28",
     "tag": "biblical",
-    "excerpt": "The epilogue to The Soul series: an allegory in eight panels, inspired by The Picture of Dorian Gray \u2014 but here the portrait is real. A life lived shapes the soul it becomes."
+    "excerpt": "The epilogue to The Soul series: an allegory in eight panels, inspired by The Picture of Dorian Gray — but here the portrait is real. A life lived shapes the soul it becomes."
   },
-{
+  {
     "slug": "god-draws-near",
     "title": "God Draws Near",
     "date": "2028-06-04",
     "tag": "biblical",
-    "excerpt": "The overall message of the Bible in one line: a lovesick Father desperately looking for His children to bring them home. Part 1 \u2014 from the Garden to the captivity, with the whole story of God's presence in one table."
+    "excerpt": "The overall message of the Bible in one line: a lovesick Father desperately looking for His children to bring them home. Part 1 — from the Garden to the captivity, with the whole story of God's presence in one table."
   },
-{
+  {
     "slug": "god-draws-near-2",
     "title": "God Draws Near. Part 2.",
     "date": "2028-06-11",
     "tag": "biblical",
-    "excerpt": "The golden calf, and the hardest sentence in Exodus: 'I will not go with you.' Why the accurate word is not that God wanted to destroy His people \u2014 but that He must."
+    "excerpt": "The golden calf, and the hardest sentence in Exodus: 'I will not go with you.' Why the accurate word is not that God wanted to destroy His people — but that He must."
   },
   {
     "slug": "god-draws-near-3",
     "title": "God Draws Near. Part 3.",
     "date": "2028-06-18",
     "tag": "biblical",
-    "excerpt": "The finale: God's nearness in the wilderness and the Promised Land, and why the Temple was never the final step \u2014 the dwelling place was always headed for human hearts."
+    "excerpt": "The finale: God's nearness in the wilderness and the Promised Land, and why the Temple was never the final step — the dwelling place was always headed for human hearts."
   },
   {
     "slug": "chronological-plan",
@@ -854,18 +924,18 @@
     "excerpt": "A one-year chronological Bible reading plan: Job inside Genesis, the Psalms inside David's life, the prophets speaking into their own kings and crises. Set your start date and begin."
   },
   {
-    "slug": "lovesick-sermon",
-    "title": "Lovesick: The Sermon",
-    "date": "2028-07-02",
-    "tag": "biblical",
-    "excerpt": "My God Draws Near trilogy grew into a sermon for home church. Here is the whole teaching kit, free: the manuscript, a printable study guide, and the slides \u2014 Eden to the New Jerusalem in eight stops."
-  },
-  {
     "slug": "god-draws-near-series",
     "title": "God Draws Near: The Series",
     "date": "2028-07-02",
     "tag": "biblical",
-    "excerpt": "The hub for the God Draws Near series \u2014 the trilogy in reading order, the Lovesick sermon kit it grew into, and the chronological reading plan grown from the same soil."
+    "excerpt": "The hub for the God Draws Near series — the trilogy in reading order, the Lovesick sermon kit it grew into, and the chronological reading plan grown from the same soil."
+  },
+  {
+    "slug": "lovesick-sermon",
+    "title": "Lovesick: The Sermon",
+    "date": "2028-07-02",
+    "tag": "biblical",
+    "excerpt": "My God Draws Near trilogy grew into a sermon for home church. Here is the whole teaching kit, free: the manuscript, a printable study guide, and the slides — Eden to the New Jerusalem in eight stops."
   },
   {
     "slug": "two-pictures",
@@ -879,20 +949,27 @@
     "title": "Faith Is a Load-Bearing Word",
     "date": "2028-07-16",
     "tag": "biblical",
-    "excerpt": "The Hebrew word for faith \u2014 emunah, from the root aman \u2014 has little to do with mental certainty and everything to do with holding fast under weight. Doubt is not the enemy of faith; it is the weight faith was engineered to bear."
+    "excerpt": "The Hebrew word for faith — emunah, from the root aman — has little to do with mental certainty and everything to do with holding fast under weight. Doubt is not the enemy of faith; it is the weight faith was engineered to bear."
   },
   {
     "slug": "fear-of-the-lord",
     "title": "The Fear of the Lord",
     "date": "2028-07-23",
     "tag": "biblical",
-    "excerpt": "Hebrew has two words for fear. Pachad is the dread that destroys; yirah \u2014 the word in 'the fear of the LORD' \u2014 is accurate perception of an infinite God. One fear is meant to drive out the other."
+    "excerpt": "Hebrew has two words for fear. Pachad is the dread that destroys; yirah — the word in 'the fear of the LORD' — is accurate perception of an infinite God. One fear is meant to drive out the other."
   },
   {
     "slug": "gods-holiness-my-house",
     "title": "God's Holiness. My House.",
     "date": "2028-07-30",
     "tag": "biblical",
-    "excerpt": "For months I couldn't love the one attribute of God the Bible mentions most \u2014 holiness felt like the attribute that commands me to depart. Then God explained it through the house I built with my own hands."
+    "excerpt": "For months I couldn't love the one attribute of God the Bible mentions most — holiness felt like the attribute that commands me to depart. Then God explained it through the house I built with my own hands."
+  },
+  {
+    "slug": "letters-to-the-brothers",
+    "title": "Letters to the Brothers",
+    "date": "2028-08-06",
+    "tag": "biblical",
+    "excerpt": "During our BSF year in Revelation I wrote to the men in my study group most weeks. Here are those letters — published as they were written, dated as they were sent."
   }
 ]
