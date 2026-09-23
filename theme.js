@@ -23,3 +23,20 @@
     });
   }
 })();
+
+
+/* Site-wide "back to ervbo.com" link: injects into the header controls on
+   any page that doesn't already have one (i.e., all post pages). */
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var controls = document.querySelector('.header-controls');
+    if (!controls) return;
+    if (controls.querySelector('a[href^="https://ervbo.com"]')) return; // index already has it
+    var a = document.createElement('a');
+    a.className = 'rss-link';
+    a.href = 'https://ervbo.com/';
+    a.setAttribute('aria-label', 'Back to ervbo.com');
+    a.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg> ervbo.com';
+    controls.insertBefore(a, controls.firstChild);
+  });
+})();
