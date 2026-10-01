@@ -40,3 +40,31 @@
     controls.insertBefore(a, controls.firstChild);
   });
 })();
+
+
+/* Comments: Cusdis -> EchoThread migration (one-file, all posts).
+   Finds the legacy Cusdis container, reuses its data-page-id as the
+   EchoThread thread identifier, swaps in the EchoThread widget, and
+   loads its script. Works on every existing and future post without
+   touching the post HTML. */
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var cusdis = document.getElementById('cusdis_thread');
+    if (!cusdis) return; // not a post page
+    var pageId = cusdis.getAttribute('data-page-id') ||
+                 (location.pathname.split('/').pop() || '').replace(/\.html$/, '');
+    if (!pageId) return;
+    var et = document.createElement('div');
+    et.id = 'echothread';
+    et.setAttribute('data-api-key', 'mVOyyLRLQxE4zqZ_a-ECb95W1E5Z2hVoKS-0vKZhuxE');
+    et.setAttribute('data-identifier', pageId);
+    cusdis.parentNode.replaceChild(et, cusdis);
+    // Remove the now-dead Cusdis loader if present (harmless either way)
+    var old = document.querySelector('script[src*="cusdis.com"]');
+    if (old && old.parentNode) old.parentNode.removeChild(old);
+    var s = document.createElement('script');
+    s.src = 'https://cdn.echothread.io/widget.js';
+    s.async = true;
+    document.body.appendChild(s);
+  });
+})();
